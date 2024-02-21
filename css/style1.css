@@ -1,0 +1,268 @@
+@media only screen and  (max-width:600px)
+{
+    .logo {
+        font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+          "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+          width: 100%;
+          /* margin-left: 50% !important;
+          border: 2px solid black; */
+         
+      }
+      .nav {
+        width:100% !important;
+        height: 200px;
+        position: relative !important;
+       
+        
+      }
+     
+      .navbar {
+        width: 35% !important;
+        list-style: none;
+        display: block;
+      
+      }
+      a {
+       
+        text-decoration: none !important;
+        list-style-type: none !important;
+        color: black !important;
+      }
+      /* home conatain */
+.containe1 {
+    width: 100%;
+    height: 200px;
+  }
+  .safe {
+    width: 25%;
+    height: 150px;
+    /* position: absolute; */
+    margin-left: 50% !important;
+    /* border: 2px solid black; */
+    
+   
+    
+  }
+  .safe {
+    background-image: url(../images/giphy.f06af283a956399b3a86.gif);
+    background-repeat: no-repeat;
+    position: absolute;   
+    margin-top: 25% !important;
+    margin-right: 150% !important;
+  }
+  .safe img {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    margin-left: 20% !important;
+  }
+  .ding {
+    width: 100% !important;
+    position: absolute;
+    margin-top: 10% !important;
+    font-size: 35px;
+  }
+  .pera {
+    margin-top: 25%;
+  }
+  .menu {
+    width: 180px;
+    height: 50px;
+    border-radius: 50px;
+    position: absolute;
+    margin-top: 60% !important;
+    border: none;
+    color: white;
+  }
+
+  /* dish */
+.dish {
+    width: 100%;
+    height: 180px;
+    margin-top: 380px !important;
+  }
+  .dish img {
+    width: 20%;
+  }
+  /* brekfast */
+.brekfast {
+    width: 100%;
+    height: 600px;
+    background-color: rgb(189, 189, 189);
+    margin-top: 2%;
+  }
+  .fast {
+    width: 210px;
+    height: 210px;
+    margin-top: 2% !important;
+    background-color: rgb(185, 45, 45);
+    margin-left: 60%;
+    border-radius: 50%;
+  }
+  .brek img {
+    width: 65% !important;
+    height: 280px !important;
+    margin-top: -150px;
+    margin-left: 50px !important;
+
+  }
+  .card {
+    width: 58%;
+    height: 320px;
+    padding: 0px;
+    background-color: white;
+    border-radius: 20px !important;
+    position: absolute;
+    top: -100px;
+    left: 220px;
+  }
+  .order {
+    width: 60%;
+    height: 50px !important;
+    margin-left: 78px !important;
+    margin-top: 2%;
+    border-radius: 500px !important;
+    color: white;
+  }
+  .order:hover {
+    background-color: darkblue !important;
+    transition: 2s all ease-out;
+  }
+  /* menu */
+.menu1 {
+    width: 100%;
+    height: 700px;
+    margin-top: 10%;
+    background-image: url(../images/6197-min.b08ae059aadb1ad80eac.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  .gujarati {
+    width: 100%;
+    height: 200px;
+    align-items: center !important;
+    border: 2px solid white;
+    margin-top: 2%;
+    margin-left: 5%;
+  }
+  
+  .gujarati img {
+    margin-left: 188px !important;
+  }
+  .gj {
+    display: none;
+  }
+  .panjabi {
+    width: 100%;
+    height: 200px;
+    align-items: center !important;
+    border: 2px solid white;
+    margin-top: 2%;
+    margin-left: 5%;
+  }
+  .panjabi img {
+    margin-left: 188px;
+  }
+  .pan {
+    /* margin-left: 30%;
+    margin-top: -8%;
+    position: absolute;
+    background-color: black;
+    opacity: 0.8; */
+    display: none;
+  }
+  .chaines {
+    width: 100%;
+    height: 200px;
+    align-items: center !important;
+    border: 2px solid white;
+    margin-top: 2%;
+    margin-left: 5%;
+  }
+  .chaines img {
+    margin-left: 188px;
+  }
+  /* indian food */
+.india {
+    width: 100%;
+    height: 500px;
+    margin-top: 2%;
+    background-image: url(../images/indian\ food.jpg);
+    background-size: 100% 100%;
+  }
+  .mus {
+    margin-top: 15% !important;
+    position: absolute;
+    margin-left: 100px;
+    font-size: 30px;
+    line-height: 50px;
+  }
+  .foo {
+    margin-top: 18% !important;
+    position: absolute;
+    margin-left: 100px;
+    font-size: 80px;
+  }
+  .more {
+    margin-top: 35%;
+    width: 25%;
+    height: 40px;
+    margin-left: 150px;
+    border-radius: 20px;
+    background-color: blue;
+    outline: 2px grey;
+  }
+  .more:hover {
+    background-color: black;
+    color: white;
+    transition: 2s all ease;
+  }
+  footer {
+    width: 100%;
+    height: 300px;
+    margin-top: 0.1%;
+    background-image: linear-gradient(to right, red, black);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    position: absolute;
+  }
+  .na1 {
+    width: 100%;
+    height: 200px;
+    border: 2px solid white;
+  }
+  .fote {
+    list-style: none;
+    line-height: 50px;
+  }
+  .us {
+    width: 100% !important;
+    line-height: 40px !important;
+  }
+  .fote:hover {
+    color: blue !important;
+  }
+  .contect {
+    width: 100%;
+    margin-left: 10% !important;
+    line-height: 40px;
+  }
+  .conte {
+    font-size: 25px;
+  }
+  .time {
+    width: 100%;
+    margin-right: 200px;
+    /* border: 2px solid white; */
+    margin-top: 05px;
+    line-height: 35px;
+    margin-left: 10% !important;
+  }
+  .mon {
+    margin-right: 0px;
+    font-size: 15px;
+  }
+}
